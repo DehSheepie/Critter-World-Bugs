@@ -1,9 +1,0 @@
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\100494507.csprojAssemblyReference.cache
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\MyCritters.ChaserSettings.resources
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\100494507.csproj.GenerateResource.cache
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\100494507.csproj.CoreCompileInputs.cache
-C:\Users\Kittie\Desktop\CritterWorld\CritterWorld\bin\Debug\100494507.dll
-C:\Users\Kittie\Desktop\CritterWorld\CritterWorld\bin\Debug\100494507.pdb
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\100494507.csproj.CopyComplete
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\100494507.dll
-C:\Users\Kittie\Desktop\CritterWorld\100494507\obj\Debug\100494507.pdb
